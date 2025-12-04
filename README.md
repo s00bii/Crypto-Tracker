@@ -1,4 +1,5 @@
-# Crypto Price Tracker 💹
+# Crypto Price Tracker (In Progress)
+
 
 ## Overview  
 The Crypto Price Tracker is a web application designed to provide real-time cryptocurrency price updates for over 100 cryptocurrencies. This project aims to enhance familiarity with API integration and backend-to-frontend data flow, leveraging Python and Flask for a seamless user experience.  
